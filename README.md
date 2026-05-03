@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👨‍💻 About me
 
-<!--
-**shamrai-nazar/shamrai-nazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner backend developer actively mastering modern technologies for building scalable server-side applications.
 
-Here are some ideas to get you started:
+I have experience with:
+- 🤖 **Python** — creating Telegram bots
+- 📘 **TypeScript** — types, async programming, backend development
+- ⚡ **Elysia** — building fast and modern backend APIs
+- 🔐 **Better Auth** — authentication and authorization setup
+- 🛢 **Databases** — MySQL, PostgreSQL, MongoDB
+- 🐳 **Docker** — creating containers and running images
+- 🔧 **Tools** — Git, GitHub, Insomnia, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,mysql,postgres,mongodb,github,vscode,docker" />
+  <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="40" alt="Insomnia" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📍 Ukraine
+- 📧 [nazar.shamrai@gmail.com](mailto:nazar.shamrai@gmail.com)
+
+---
+
+## ✨ Motto
+
+> *Sit, eat, make commit.*
